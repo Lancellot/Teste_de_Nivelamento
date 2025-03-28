@@ -25,13 +25,6 @@ Objetivo: Criar estrutura SQL e consultas analíticas sobre dados da ANS.
 
 Tecnologias: PostgreSQL
 
-Arquivos:
-
-    sql_setup.sql (criação de tabelas)
-
-    sql_import.sql (importação de dados)
-
-    sql_queries.sql (consultas analíticas)
 
 4. TESTE DE API
 
