@@ -7,13 +7,10 @@ Objetivo: Acessar site governamental, baixar anexos em PDF e compactá-los.
 
 Tecnologias: Python
 
-Arquivos:
 
-    web_scraping.py
 
-    Anexos I e II em PDF
 
-    Arquivo compactado resultante
+   
 
 2. TESTE DE TRANSFORMAÇÃO DE DADOS
 
@@ -21,13 +18,6 @@ Objetivo: Extrair dados de PDF, transformar em CSV e compactar.
 
 Tecnologias: Python
 
-Arquivos:
-
-    data_transformation.py
-
-    Rol_Procedimentos.csv
-
-    Teste_[Nome].zip
 
 3. TESTE DE BANCO DE DADOS
 
@@ -55,13 +45,7 @@ Tecnologias:
 
     Backend: Python (FastAPI)
 
-Arquivos:
 
-    api_server.py
-
-    Frontend Vue.js
-
-    Coleção Postman (Operadoras_API.postman_collection.json)
 
 Como executar
 
